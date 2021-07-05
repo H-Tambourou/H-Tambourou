@@ -1,0 +1,32 @@
+﻿/* REMOVING THE DEFAULT STYLINGS FROM THE PAGE */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(175deg, #2327e5, #f56d0c);
+    min-height: 100vh;
+    color: white;
+    font-family: 'Lucida Console', monospace;
+}
+
+h1, div{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height:12vh;
+}
+#submitTask {
+    margin: 0.4rem;
+}
+li{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    min-height:4vh;
+    
+}
+
+
