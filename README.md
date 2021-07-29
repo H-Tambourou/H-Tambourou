@@ -1,6 +1,6 @@
 - 👋 Hey, my name is Henrick Tambourou. 
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning front end development.
 - 💞️ I’m looking to collaborate on any projects that will further my portfolio and coding knowledge. 
 - 📫 h.tambourou@gmail.com
 - 
