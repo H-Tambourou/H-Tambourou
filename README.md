@@ -1,6 +1,6 @@
 ![cover](coverHT.png)
 
-#Hello there, it's Henrick 👋 
+# Hello there, it's Henrick 👋 
 - 📘 Philomath for life 
 - 🌱 Problem solver
 - 💞️ Would Love to collaborate on any projects.
