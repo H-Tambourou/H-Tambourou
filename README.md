@@ -1,3 +1,4 @@
+![cover](coverHT.png)
 - 👋 Hey, my name is Henrick Tambourou. 
 - 👀 Currently looking for a dev job.
 - 🌱 I’m a fast learner and I'm always eager to learn new technology.
