@@ -3,7 +3,7 @@
 # Hello there, it's Henrick 👋 
 - 📘 Philomath for life 
 - 🌱 Problem solver
-- 💞️ Would Love to collaborate on any projects.
+- 💞️ Would love to collaborate on any projects.
 - 📫 h.tambourou@gmail.com
 
 
