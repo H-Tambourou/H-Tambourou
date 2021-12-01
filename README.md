@@ -7,7 +7,7 @@
 
 <!-- Actual text -->
 
-<p align="center> You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].</p>
+ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
