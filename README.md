@@ -1,9 +1,9 @@
 ![cover](coverHT.png)
 
 # Hello there, it's Henrick 👋 
-- 📘 Philomath of life, so love to learn new things that challenge me every day.
-- 🌍 “We carry within us all the mystical power we need to transform our world.”
-- 💻 Still learning but can do some pretty cool things with Javascript, looking forward to other languages like C++. 
+- 📘 Philomath of life, so love to learn new things that challenge me every day
+- 🌍 True believer that “we carry within us all the mystical power we need to transform our world”
+- 💻 Still learning but can do some pretty cool things with Javascript, looking forward to other languages like C++ 
 - 📫 h.tambourou@gmail.com
 
 
