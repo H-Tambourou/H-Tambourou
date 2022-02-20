@@ -22,8 +22,8 @@
 [2]: https://www.linkedin.com/in/henrick-t-429a1b223/
 
 <!-- Stats Icons -->
-![Henricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Tambourou&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=H-Tambourou)](https://git.io/streak-stats)
+[![Henricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Tambourou&count_private=true)]
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?user=H-Tambourou)]()]
 
 <!---
 H-Tambourou/H-Tambourou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
