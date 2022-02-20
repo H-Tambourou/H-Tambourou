@@ -23,7 +23,7 @@
 
 <!-- Stats Icons -->
 ![Henricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Tambourou&count_private=true)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?user=H-Tambourou)]()
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=H-Tambourou)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 H-Tambourou/H-Tambourou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
