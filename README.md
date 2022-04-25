@@ -19,7 +19,7 @@
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/future_x_robert
-[2]: https://www.linkedin.com/in/henrick-t-429a1b223/
+[2]: https://www.linkedin.com/in/henricktambourou/
 
 <!-- Stats Icons -->
 ![Henricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Tambourou&count_private=true)
