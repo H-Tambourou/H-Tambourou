@@ -2,7 +2,7 @@
 
 # Hello there, it's Henrick 👋 
 - 📘 Philomath of life, so love to learn new things that challenge me every day
-- 🌍 True believer that “we carry within us all the mystical power we need to transform our world”
+- 🌍 “we carry within us all the mystical power we need to transform our world”
 - 💻 Always learning but can do some pretty cool things with Javascript, looking forward to learning more things
 - 📫 h.tambourou@gmail.com 
 
