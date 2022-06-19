@@ -1,5 +1,6 @@
 ![cover](coverHT.png)
 
+
 # Hello there, it's Henrick 👋 
 - 📘 Philomath of life, so love to learn new things that challenge me every day
 - 🌍 True believer in that “we carry within us all the mystical power we need to transform our world”
