@@ -5,8 +5,8 @@
 - 📘 Philomath of life, so love to learn new things every day that challenge me
 - 🌍 Big believer that “we carry within us all the mystical power we need to transform our world”
 - 💻 The mission is to problem solve a better world
-- 📫 h.tambourou@gmail.com 
 
+📫 h.tambourou@gmail.com 
 
 <!-- Actual text -->
 
